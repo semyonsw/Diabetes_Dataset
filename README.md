@@ -10,7 +10,7 @@
 ### 1. Clone Repository
 ```bash
 # Clone the project
-git clone https://github.com/Zark-ML/Diabetes-Dataset
+git clone https://github.com/semyonsw/Diabetes_Dataset
 cd Diabetes-Dataset
 ```
 
