@@ -11,7 +11,7 @@
 ```bash
 # Clone the project
 git clone https://github.com/semyonsw/Diabetes_Dataset
-cd Diabetes-Dataset
+cd Diabetes_Dataset
 ```
 
 ### 2. Virtual Environment Setup
